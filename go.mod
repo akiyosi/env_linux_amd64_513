@@ -1,1 +1,1 @@
-module github.com/therecipe/env_linux_amd64_513
+module github.com/akiyosi/env_linux_amd64_513
